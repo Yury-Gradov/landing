@@ -1,0 +1,117 @@
+.container{
+    width: 1170px;
+    height: 640px;
+    background: #F3F3F2;
+    border-radius: 0px;
+}
+.container_text1{
+    width: 371px;
+    height: 58px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    position: absolute;
+    margin-top: 143px;
+    margin-left: 102px;
+}
+.container_text2{
+    width: 347px;
+    height: 58px;
+    position:  absolute;
+    margin-top: 200px;
+    margin-left: 102px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+.container_text3{
+    width: 618px;
+    height: 84px;
+    position: absolute;
+    margin-top: 267px;
+    margin-left: 102px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    color: #55524E;
+}
+.container_box{
+    width: 720px;
+    height: 80px;
+    position: absolute;
+    margin-top: 415px;
+    margin-left: 102px;
+    background: #FFFFFF;
+    box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    z-index: 2;
+}
+.container_box_first{
+    width: 239px;
+    height: 64px;
+    position: absolute;
+    margin-right: 473px;
+}
+.container_box_first_1{
+    width: 48px;
+    height: 12px;
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 32px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: #787573;
+}
+.container_box_first_2{
+    width: 61px;
+    height: 12px;
+    position: absolute;
+    margin-top: 41px;
+    margin-left: 33px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 12px;
+    color: #090808;
+}
+.container_box_second{
+    width: 236px;
+    height: 80px;
+    position: absolute;
+    margin-left: 271px;
+}
+.container_box_button{
+    width: 157px;
+    height: 64px;
+    background: #08786C;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-left: 555px;
+}
+.container_box_button_img{
+    position: relative;
+    top: 24px;
+    left: 40px;
+}
+.container_box_button_text{
+    position: relative;
+    left: 65px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.container__image{
+    position: relative;
+    left: 640px;
+    width: 698px;
+    height: 680px;
+    z-index: 1;
+}
